@@ -77,7 +77,7 @@ const Footer = () => (
         </li>
         <li>
           <Link href="/">
-            <a>About</a>
+            <a>About Quiz games</a>
           </Link>
         </li>
         <li>
